@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="assets/profile.png" alt="Hey there! This is Aadhisesha! Welcome to my profile!" width="100%" />
+  <img src="assets/profile.png" width="100%" />
 </p>
+> Hey there this is Aadhisesha, Welcome to my profile!
